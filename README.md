@@ -1,8 +1,12 @@
 # FurShaderUnity
 
 ### 效果展示
-- 视频 https://www.bilibili.com/video/BV1nv411i7iP/
-- 图片![](/Test.png)
+- 视频  
+https://www.bilibili.com/video/BV1nv411i7iP/
+- 图片
+![](/Example/pic2.png)
+![](/Example/pic1.png)
+![](/Example/pic3.png)
 ### 介绍
   在Unity中使用单Pass多GameObject的方式生成Shell毛发模型。
   在编辑器中可以动态调整表面颜色、光照、毛发层数、毛发软硬度、重力影响等参数，方便美术调节。
